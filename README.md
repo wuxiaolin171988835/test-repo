@@ -1,2 +1,2 @@
 # test-repo    
-renshu1
+kuangrs2
